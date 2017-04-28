@@ -2,11 +2,12 @@
 
 # Screenshot
 
-![image](https://github.com/WulanR/ProjectMVC/blob/master/1.JPG) <br>
-![image](https://github.com/WulanR/ProjectMVC/blob/master/2.JPG) <br>
-![image](https://github.com/WulanR/ProjectMVC/blob/master/3.JPG) <br>
-![image](https://github.com/WulanR/ProjectMVC/blob/master/4.JPG) <br>
-![image](https://github.com/WulanR/ProjectMVC/blob/master/5.JPG) <br>
+<br>![image](https://github.com/WulanR/ProjectMVC/blob/master/6.JPG) <br>
+<br>![image](https://github.com/WulanR/ProjectMVC/blob/master/1.JPG) <br>
+<br>![image](https://github.com/WulanR/ProjectMVC/blob/master/2.JPG) <br>
+<br>![image](https://github.com/WulanR/ProjectMVC/blob/master/3.JPG) <br>
+<br>![image](https://github.com/WulanR/ProjectMVC/blob/master/4.JPG) <br>
+<br>![image](https://github.com/WulanR/ProjectMVC/blob/master/5.JPG) <br>
 
 # Identitas
 
